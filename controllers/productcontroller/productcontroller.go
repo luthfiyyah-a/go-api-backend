@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/luthfiyyah-a/go-restapi-gin/models"
+	"restapi-minio.com/models"
 	"gorm.io/gorm"
 
 	// "github.com/luthfiyyah-a/go-restapi-gin/controllers/productcontroller"
